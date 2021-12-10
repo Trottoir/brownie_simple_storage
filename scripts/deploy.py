@@ -23,5 +23,4 @@ def get_account():
 
 
 def main():
-    load_dotenv()
     deploy_simple_storage()
