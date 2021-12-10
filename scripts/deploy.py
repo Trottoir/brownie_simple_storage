@@ -1,5 +1,4 @@
 from brownie import accounts, config, SimpleStorage, network
-from dotenv import load_dotenv
 
 
 def deploy_simple_storage():
